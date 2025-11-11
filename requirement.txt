@@ -10,3 +10,13 @@ langchain-community
 moviepy==1.0.3
 SpeechRecognition
 openpyxl
+python-docx
+pandas
+pdf2image
+pytesseract
+moviepy
+SpeechRecognition
+langchain
+Pillow
+
+
